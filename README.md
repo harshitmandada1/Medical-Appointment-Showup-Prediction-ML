@@ -1,6 +1,9 @@
 
 
   The objective of this repository is to produce an best model to predict an appointment's no-show, given a patient. The data set shows information of appointments in public hospitals in Vitoria, Espirito Santo, Brazil.
+  
+  ![GitHub Logo](/images/logo.png)
+  Format: ![Alt Text](url)
 
   The following steps are included:
 
