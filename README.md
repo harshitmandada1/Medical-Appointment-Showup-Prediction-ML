@@ -1,5 +1,5 @@
 
-                              *Medical Appointment ShowUp or NoShowUp Predictions*
+  # Medical Appointment ShowUp or NoShowUp Predictions
                               
                               
   The objective of this repository is to produce an best model to predict an appointment's no-show, given a patient. The data set shows information of appointments in public hospitals in Vitoria, Espirito Santo, Brazil.
@@ -12,16 +12,16 @@
 
   The following steps are included:
 
-  Univariate Analysis (with Feature Engineering)
+  *Univariate Analysis (with Feature Engineering)*
 
-  Significant Featuring (using corelation matrix and VIF)
+  *Significant Featuring (using corelation matrix and VIF)*
 
-  Machine Learning Modelling with hyperparameter tuning
+  *Machine Learning Modelling with hyperparameter tuning*
   
-  Models Analysis
+  *Model Analysis*
   
   
-*Conclusion¶*
+*Conclusion*
   
 Feature named MissedAppointments which was not present in dataset initially,After figuring it out, found it has the most corelated feature to the dependent variable, it makes sense that behavior of previous instances is helpful to predict the current instance whether the patient is going to showup or not. Finally, Able to predict with 92% Accuracy
 
