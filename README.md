@@ -28,7 +28,8 @@
  
  ## Version 2.0
   Added Model Interpretability 
-    * Permutation Importance.
+  
+    * Permutation Importance
     * Partial Dependence plots
     * SHAP Values
   
